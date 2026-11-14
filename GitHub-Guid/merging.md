@@ -1,7 +1,7 @@
 # Mergeing
 مرج کردن در لغت به معنی ادغام کردن است. یعنی میتوان برنچ های مختلف را ادغام کرد و وارد پروژه اصلی کرد. با دستورات زیر میتوان از مرج استفاده کرد:
 # Commands and Description:
-## 1git checkout main | Switch to main 
+## 1```git checkout main``` | Switch to main 
 رفتن به صفحه main
 ## 2git pull origin main| Update main 
 برای آپدیت کردن main
