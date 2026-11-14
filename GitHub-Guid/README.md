@@ -1,4 +1,4 @@
-# How to work with github
+# How to work with github for students
 # Collaborator
 ## Amir Saleminegad: Back-end developer
 ## Pariya Banamazade: Front-end developer
