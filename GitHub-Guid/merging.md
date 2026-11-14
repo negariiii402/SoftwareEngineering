@@ -6,16 +6,16 @@
 ## 2```git pull origin main```| Update main 
 برای آپدیت کردن main
 ## 3```git merge BRANCH``` | Merge another branch 
-مرج کردن به بک برنچ دیگر
+مرج کردن به یک branch دیگر
 ## 4```git status Check``` | merge status 
-چک کردن وضعیت مرج
+چک کردن وضعیت merge
 ## 5```git add  Stage``` | resolved files 
 
 ## 6```git commit -m "MESSAGE"```| Commit the merge resolution 
-نوشتن یک کامنت برای مرج 
+نوشتن یک کامنت دلخواه برای merge 
 ## 7```git push origin main``` | Push merged changes 
-اعمال کردن تغییرات مرج
+اعمال کردن تغییرات روی merge
 ## 8```git branch -d BRANCH``` | Delete local branch 
-پاک کردن یک برنچ فعلی
+پاک کردن یک branch فعلی
 ## 9```git push origin --delete BRANCH``` | Delete remote branch 
-پاک کردن برنچ اصلی 
+پاک کردن branch اصلی 
